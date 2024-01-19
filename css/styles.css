@@ -87,6 +87,7 @@ ul, ol {
     line-height: 1.5;
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
+    cursor: pointer;
 }
 
 .hero-btn:hover,
@@ -134,9 +135,9 @@ ul, ol {
     text-transform: capitalize;
 }
 
-.team-list {
-    background-color: #FFF;
-}
+.team-item {
+    background-color: #FFFFFF;
+ }
 
 .team-person {
     color: #2E2F42;
